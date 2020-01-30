@@ -11,14 +11,17 @@ Main features:
   Create: You can add your own or other written works to prism to get a general subjective interpretation of your work.
           For this you need the text, upto three "facets", title of the text, author of the text publication date, and the language of 
           the text. You may also add a brief description of the text. Prism offers an unlisted option while adding the work. This removes
-          your work from searches limiting the number of people having acced to your prism. Prism also needs you to specify the license 
+          your work from searches limiting the number of people having access to your prism. Prism also needs you to specify the license 
           of the work your turning into a "Prism" 
   Play: In the play section you can browse the various prisms added to the platform. To contribute select a Prism of your liking and begin
         highlighting according to the facets stated by the creator. To complete click "Save highlights" and you will be shown the texts
         general interpretaion by the platforms crowd.
+        
+  Sign In: This page lets you create a PRISM account or sign in to one that has previously been created. Here, you're able to keep track of
+            the prisms you have created, the ones that you have highlighted and viewed. 
 
 It's a text analysis tool
 
-It was created in Scholars lab which is a site for innovation in the humanities and social sciences created by the University of Virginia
+It was created in Scholars lab(by novice student develpoers in the Praxis Program) which is a site for innovation in the humanities and social sciences created by the University of Virginia
 in 2006. Cost of site maintainence being the only issuse suggests that funding is carried out by Scholarslab which is in turn funded by 
 University of Virginia
